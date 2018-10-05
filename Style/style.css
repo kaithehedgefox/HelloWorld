@@ -19,3 +19,11 @@ p {
     div { 
     background-color: #FFFFFF;
     }
+
+a:link { 
+color: #66FFFF;
+}
+
+a:visited { 
+color: #66FFFF;
+}
