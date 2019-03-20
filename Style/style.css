@@ -4,27 +4,32 @@ body {
 
 h1 {
     color: black;
+    font-family: Merriweather;
 }
     
 h2 {
     color: black;
+    font-family: Merriweather;
 }
 
 h3 {
     color: black;
+    font-family: Merriweather;
 }
 
 h4 {
     color: black;
+    font-family: Merriweather;
 }
 
 h5 {
     color: black;
+    font-family: Merriweather;
 }
 
 p {
     color: #FFFFFF;
-    font-family: verdana;
+    font-family: Merriweather;
     font-size: 20px;
 }
 
@@ -42,6 +47,6 @@ color: #66FFFF;
 
 li {
     color: #FFFFFF;
-    font-family: verdana;
+    font-family: Merriweather;
     font-size: 20px;
 }
